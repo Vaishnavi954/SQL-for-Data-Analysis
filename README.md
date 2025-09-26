@@ -1,2 +1,4 @@
-# SQL-for-Data-Analysis
-Objective: Use SQL queries to extract and analyze data from a database. Tools: MySQL or PostgreSQL or SQLite Deliverables: SQL queries in a SQL file + screenshots of output
+# E-commerce Data Analysis Project
+## Overview
+
+This repository contains a project for analyzing an e-commerce dataset using SQLite and SQL queries. The dataset includes customer purchase data with fields like customer ID (CID), transaction ID (TID), gender, age group, product category, discount details, purchase amounts, and location. The analysis involves SQL queries to extract insights using filtering, grouping, joins, subqueries, aggregate functions, views, and query optimization with indexes.
