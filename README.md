@@ -17,4 +17,5 @@ The repo includes the following screenshots for quick reference:
 - **SQL Table Schema** – `ecommerce` and `customers` table structure  
 - **Data Load** – loaded records from CSV into `ecommerce` table  
 - **Query Outputs** – first 10 records, filtered purchases, aggregation, top customers  
-- **JOIN Results** – INNE
+- **JOIN Results** – INNER JOIN and LEFT JOIN between `ecommerce` and `customers`  
+- **Monthly Sales View** – aggregated sales per month
