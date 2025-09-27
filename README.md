@@ -34,7 +34,7 @@ The repo includes the following screenshots for quick reference:
 ---
 
 ### 3. Query Outputs :filtered purchases 
-![t4](https://github.com/user-attachments/assets/065c4bf2-5c92-4d3d-9c14-e92bb06aaf56)
+<img width="542" height="473" alt="image" src="https://github.com/user-attachments/assets/2ca06a44-4494-4757-abe9-264b6ea72bec" />
 
 
 ---
