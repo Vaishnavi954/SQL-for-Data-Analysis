@@ -19,3 +19,31 @@ The repo includes the following screenshots for quick reference:
 - **Query Outputs** – first 10 records, filtered purchases, aggregation, top customers  
 - **JOIN Results** – INNER JOIN and LEFT JOIN between `ecommerce` and `customers`  
 - **Monthly Sales View** – aggregated sales per month
+
+
+### 1. SQL Table Schema  
+<img width="1651" height="952" alt="Screenshot 2025-09-27 170210" src="https://github.com/user-attachments/assets/c7373680-4a67-42f6-a234-1e1289787012" />
+
+
+---
+
+### 2. Data Load  
+![WhatsApp Image 2025-09-27 at 18 10 12_cdef29a9](https://github.com/user-attachments/assets/6ba496f4-515e-4bc3-b6d4-31ceb408e5a1)
+
+
+---
+
+### 3. Query Outputs :filtered purchases 
+![t4](https://github.com/user-attachments/assets/065c4bf2-5c92-4d3d-9c14-e92bb06aaf56)
+
+
+---
+
+### 4. JOIN Results  
+<img width="2400" height="1275" alt="screenshot (1)" src="https://github.com/user-attachments/assets/b58436f0-3fb6-44a0-9780-06d1df603c1e" />
+
+
+---
+
+### 5. Monthly Sales View  
+<img width="1737" height="926" alt="Screenshot 2025-09-27 175554" src="https://github.com/user-attachments/assets/c51a32c5-f6b2-4008-94db-4510d9c66e9d" />
